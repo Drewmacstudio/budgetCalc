@@ -1,2 +1,2 @@
 # testing
-Noob trying stuff out
+Making a calculator thing for my first javascript project
